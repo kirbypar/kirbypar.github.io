@@ -7,6 +7,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 To see Jonah's twitter account, [click here!](https://twitter.com/j_barna9).
 
 ### Work in Progress
-## I am just testing things
-# Idk what this will do
+<a href="http://tinypic.com?ref=2irs0ur" target="_blank"><img src="http://i64.tinypic.com/2irs0ur.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
