@@ -7,6 +7,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 To see Jonah's twitter account, [click here!](https://twitter.com/j_barna9).
 
 ### Work in Progress
-
-Just testing things
+## I am just testing things
+# Idk what this will do
 
